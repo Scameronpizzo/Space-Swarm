@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Swarm SCP.Plugins", "Space Swarm SCP.Plugins.csproj", "{10AFCA77-756D-044F-65A8-E18D55182A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Swarm SCP", "Space Swarm SCP.csproj", "{F6D6CD37-861B-2319-B526-DC3CEA3CC6C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Swarm SCP.Editor.Plugins", "Space Swarm SCP.Editor.Plugins.csproj", "{C0642EC7-36E2-C3AD-E87F-96707D430D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10AFCA77-756D-044F-65A8-E18D55182A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AFCA77-756D-044F-65A8-E18D55182A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AFCA77-756D-044F-65A8-E18D55182A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AFCA77-756D-044F-65A8-E18D55182A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D6CD37-861B-2319-B526-DC3CEA3CC6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D6CD37-861B-2319-B526-DC3CEA3CC6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D6CD37-861B-2319-B526-DC3CEA3CC6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D6CD37-861B-2319-B526-DC3CEA3CC6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0642EC7-36E2-C3AD-E87F-96707D430D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0642EC7-36E2-C3AD-E87F-96707D430D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0642EC7-36E2-C3AD-E87F-96707D430D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0642EC7-36E2-C3AD-E87F-96707D430D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
